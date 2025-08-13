@@ -1,0 +1,905 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9B3BC1-26AD-46D0-AFD7-542459C128D7}|..\\Offer\\Offer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\offer\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2C6AAE-CE6F-4481-AD2B-43D6FF50E44C}|..\\Ticket\\Ticket.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\ticket\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE50AEFA-4730-4F4A-A10E-5BC1A8CD976E}|..\\PawRace.DataAccess\\PawRace.DataAccess.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.dataaccess\\pawracedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5B9DF-2F2B-421B-92D5-23F5FB38BB38}|..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\raceoffermaintainer\\maintainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5B9DF-2F2B-421B-92D5-23F5FB38BB38}|..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\raceoffermaintainer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5B9DF-2F2B-421B-92D5-23F5FB38BB38}|..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\raceoffermaintainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5B9DF-2F2B-421B-92D5-23F5FB38BB38}|..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\raceoffermaintainer\\raceoffermaintainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A75A74-4B02-4885-B72A-641864FDCD6A}|..\\PawRace.Models\\PawRace.Models.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.models\\map\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A75A74-4B02-4885-B72A-641864FDCD6A}|..\\PawRace.Models\\PawRace.Models.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.models\\dto\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A75A74-4B02-4885-B72A-641864FDCD6A}|..\\PawRace.Models\\PawRace.Models.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.models\\enums\\betticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A75A74-4B02-4885-B72A-641864FDCD6A}|..\\PawRace.Models\\PawRace.Models.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.models\\dto\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9B3BC1-26AD-46D0-AFD7-542459C128D7}|..\\Offer\\Offer.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\offer\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A75A74-4B02-4885-B72A-641864FDCD6A}|..\\PawRace.Models\\PawRace.Models.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawrace.models\\enums\\racestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2C6AAE-CE6F-4481-AD2B-43D6FF50E44C}|..\\Ticket\\Ticket.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\ticket\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Ticket\\TicketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|c:\\users\\ema19\\source\\repos\\race_emabudisa\\pawraceapi\\pawraceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8123614D-696F-44D6-AD62-F950CAEF5712}|PawRaceAPI.csproj|solutionrelative:pawraceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\RaceStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Map\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRaceDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\MaintainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Ticket\\ITicketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\IPawRaceDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Wallet\\IWalletService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Wallet\\WalletService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\BetTicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\BetTicketStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\RaceDog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\PawRaceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Wallet\\Wallet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\InMemoryWallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\TicketDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDogSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RacingDog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Offer\\Offer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRace.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\Ticket\\Ticket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ema19\\source\\repos\\PawRace.Models\\PawRace.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RaceOfferMaintainer\\Program.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\Program.cs",
+              "RelativeToolTip": "..\\RaceOfferMaintainer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:28:01.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Offer\\OfferService.cs",
+              "RelativeDocumentMoniker": "..\\Offer\\OfferService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Offer\\OfferService.cs",
+              "RelativeToolTip": "..\\Offer\\OfferService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswJAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:04:15.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:19:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Hubs\\MessageHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Hubs\\MessageHub.cs",
+              "RelativeToolTip": "Hubs\\MessageHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:26:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PawRaceDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "RelativeToolTip": "..\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAqwEsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:47:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Ticket\\TicketService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket\\TicketService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Ticket\\TicketService.cs",
+              "RelativeToolTip": "..\\Ticket\\TicketService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:48:54.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\OffersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OffersController.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\OffersController.cs",
+              "RelativeToolTip": "Controllers\\OffersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:18:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T12:27:33.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:37:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Map\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.Models\\Map\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Map\\MappingProfile.cs",
+              "RelativeToolTip": "..\\PawRace.Models\\Map\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:24:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaintainService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\MaintainService.cs",
+              "RelativeDocumentMoniker": "..\\RaceOfferMaintainer\\MaintainService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\MaintainService.cs",
+              "RelativeToolTip": "..\\RaceOfferMaintainer\\MaintainService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:20:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\RaceOfferMaintainer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\appsettings.json",
+              "RelativeToolTip": "..\\RaceOfferMaintainer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T07:25:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RaceOfferMaintainer",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "RelativeDocumentMoniker": "..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "RelativeToolTip": "..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T07:20:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "RelativeToolTip": "..\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:36:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Offer\\IOfferService.cs",
+              "RelativeDocumentMoniker": "..\\Offer\\IOfferService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Offer\\IOfferService.cs",
+              "RelativeToolTip": "..\\Offer\\IOfferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:07:17.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BetTicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "RelativeToolTip": "..\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:49:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RaceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "RelativeToolTip": "..\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:22:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Ticket\\ITicketService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\Ticket\\ITicketService.cs",
+              "RelativeToolTip": "..\\Ticket\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:58:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\DTO\\Race.cs",
+              "RelativeDocumentMoniker": "..\\PawRace.Models\\DTO\\Race.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRace.Models\\DTO\\Race.cs",
+              "RelativeToolTip": "..\\PawRace.Models\\DTO\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:25:29.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinanceController.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "Controllers\\FinanceController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:19:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPawRaceDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\IPawRaceDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\IPawRaceDataAccess.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\IPawRaceDataAccess.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\IPawRaceDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:59:42.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Ticket\\ITicketService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Ticket\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Ticket\\ITicketService.cs",
+              "RelativeToolTip": "..\\..\\Ticket\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:05:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Ticket\\TicketService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Ticket\\TicketService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Ticket\\TicketService.cs",
+              "RelativeToolTip": "..\\..\\Ticket\\TicketService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:05:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MaintainService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\MaintainService.cs",
+              "RelativeDocumentMoniker": "..\\..\\RaceOfferMaintainer\\MaintainService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\MaintainService.cs",
+              "RelativeToolTip": "..\\..\\RaceOfferMaintainer\\MaintainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:54:35.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PawRaceAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\PawRaceAPI.csproj",
+              "RelativeDocumentMoniker": "PawRaceAPI.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Race_EmaBudisa\\PawRaceAPI\\PawRaceAPI.csproj",
+              "RelativeToolTip": "PawRaceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T12:26:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RaceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\Enums\\RaceStatus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:37:04.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PawRaceDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\PawRaceDataAccess.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:58:26.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Map\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\Map\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Map\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\Map\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:45:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IWalletService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Wallet\\IWalletService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Wallet\\IWalletService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Wallet\\IWalletService.cs",
+              "RelativeToolTip": "..\\..\\Wallet\\IWalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:41:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Wallet\\WalletService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Wallet\\WalletService.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Wallet\\WalletService.cs",
+              "RelativeToolTip": "..\\..\\Wallet\\WalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:41:30.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BetTicket.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\BetTicket.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\BetTicket.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\BetTicket.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\BetTicket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:06:57.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TicketDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\TicketDetails.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketDetails.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\TicketDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:21:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:57:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BetTicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\Enums\\BetTicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:10:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RaceDog.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\RaceDog.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\RaceDog.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\RaceDog.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\RaceDog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:52:05.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PawRaceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\PawRaceDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\PawRaceDbContext.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\PawRaceDbContext.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\PawRaceDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:20:19.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Dog.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:27:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\RaceOfferMaintainer\\Program.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\Program.cs",
+              "RelativeToolTip": "..\\..\\RaceOfferMaintainer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:02:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RaceOfferMaintainer.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "RelativeToolTip": "..\\..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T11:23:48.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\RaceOfferMaintainer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\RaceOfferMaintainer\\appsettings.json",
+              "RelativeToolTip": "..\\..\\RaceOfferMaintainer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T15:11:42.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Wallet.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Wallet\\Wallet.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Wallet\\Wallet.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Wallet\\Wallet.csproj",
+              "RelativeToolTip": "..\\..\\Wallet\\Wallet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-07T09:03:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Ticket.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:25:43.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InMemoryWallet.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\InMemoryWallet.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\InMemoryWallet.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\InMemoryWallet.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\InMemoryWallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:02:39.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TicketDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\TicketDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\TicketDetail.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\TicketDetail.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\TicketDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:57:31.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RaceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\RaceDetails.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDetails.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\RaceDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:35:49.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RaceDogSelection.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDogSelection.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\RaceDogSelection.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RaceDogSelection.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\RaceDogSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:59:19.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RacingDog.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RacingDog.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\RacingDog.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\RacingDog.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\RacingDog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:36:56.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Offer.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Offer\\Offer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Offer\\Offer.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Offer\\Offer.csproj",
+              "RelativeToolTip": "..\\..\\Offer\\Offer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T14:18:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Race.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\Race.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Race.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:26:02.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\Race.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:23:49.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PawRace.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRace.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\PawRace.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\PawRace.DataAccess.csproj",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\PawRace.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T15:06:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\User.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\User.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:18:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.DataAccess\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.DataAccess\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\PawRace.DataAccess\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:25:38.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\DTO\\Dog.cs",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\DTO\\Dog.cs",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\DTO\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:36:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Ticket.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\Ticket\\Ticket.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Ticket\\Ticket.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\Ticket\\Ticket.csproj",
+              "RelativeToolTip": "..\\..\\Ticket\\Ticket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T07:31:17.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PawRace.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\PawRace.Models.csproj",
+              "RelativeDocumentMoniker": "..\\..\\PawRace.Models\\PawRace.Models.csproj",
+              "ToolTip": "C:\\Users\\ema19\\source\\repos\\PawRace.Models\\PawRace.Models.csproj",
+              "RelativeToolTip": "..\\..\\PawRace.Models\\PawRace.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T16:32:57.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

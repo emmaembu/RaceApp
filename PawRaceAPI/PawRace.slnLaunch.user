@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PawRaceAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\RaceOfferMaintainer\\RaceOfferMaintainer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
